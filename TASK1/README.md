@@ -28,4 +28,4 @@ Here is a breakdown of how the chatbot processes user inputs:
 4. The conversation continues until the user inputs "bye," which ends the chat session.
 
 ### Example Interaction
-
+Chatbot: Hello! Type 'bye' to exit. You: Hello Chatbot: Hi there! How can I assist you today? You: How are you? Chatbot: I'm just a bot, but I'm doing great! How about you? You: What is your name? Chatbot: I'm your friendly rule-based chatbot. You: Bye Chatbot: Goodbye! Have a great day!
