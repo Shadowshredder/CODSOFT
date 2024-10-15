@@ -21,3 +21,12 @@ The AI is implemented using the **Minimax algorithm** with **Alpha-Beta pruning*
    ```bash
    git clone https://github.com/your-username/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
+2.Run the game:
+      python tic_tac_toe.py
+3.Play the game:
+   **The game will prompt you to enter the row and column for your move.
+   **Input values range from 0 to 2 for both rows and columns.
+   **The AI will then make its move after yours.
+4.Win Conditions:
+  **The game ends when either player      wins(3 in a row) or when all cells   are filled (a draw).
+   
